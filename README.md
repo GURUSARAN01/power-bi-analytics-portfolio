@@ -6,7 +6,7 @@ This repository contains two Microsoft Power BI dashboard projects.
 
 | Project | Power BI file | Location |
 | --- | --- | --- |
-| Digital Market Analytics for Mercedes-Benz | `Mercedes_Benz_Digital_Market_Analytics.pbix` | `projects/mercedes-benz-digital-market-analytics/` |
+| Digital Campaign Analytics | `Digital_Campaign_Analytics.pbix` | `projects/digital-campaign-analytics/` |
 | NVH Analysis Dashboard | `NVH_Analysis_Dashboard.pbix` | `projects/nvh-analysis-dashboard/` |
 
 ## Repository structure
@@ -14,8 +14,8 @@ This repository contains two Microsoft Power BI dashboard projects.
 ```text
 power-bi-analytics-portfolio/
 |-- projects/
-|   |-- mercedes-benz-digital-market-analytics/
-|   |   |-- Mercedes_Benz_Digital_Market_Analytics.pbix
+|   |-- digital-campaign-analytics/
+|   |   |-- Digital_Campaign_Analytics.pbix
 |   |   `-- README.md
 |   `-- nvh-analysis-dashboard/
 |       |-- NVH_Analysis_Dashboard.pbix

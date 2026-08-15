@@ -1,8 +1,8 @@
-# Digital Market Analytics for Mercedes-Benz
+# Digital Campaign Analytics
 
 ## Dashboard file
 
-`Mercedes_Benz_Digital_Market_Analytics.pbix`
+`Digital_Campaign_Analytics.pbix`
 
 Open the dashboard with Microsoft Power BI Desktop. If a refresh is required, configure the expected data-source credentials in your local Power BI environment.
 
@@ -11,4 +11,3 @@ Open the dashboard with Microsoft Power BI Desktop. If a refresh is required, co
 - Keep the dashboard filename stable so links and documentation remain valid.
 - Document important data-source, measure, or visual changes in commit messages.
 - Avoid simultaneous edits to the binary `.pbix` file on separate branches.
-
