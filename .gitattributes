@@ -1,0 +1,4 @@
+# Treat Power BI Desktop files as binary assets.
+*.pbix binary
+*.pbit binary
+

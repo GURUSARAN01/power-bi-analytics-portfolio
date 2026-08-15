@@ -1,0 +1,14 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+~$*
+
+# Power BI Project local artifacts
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
