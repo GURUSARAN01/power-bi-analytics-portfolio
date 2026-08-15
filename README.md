@@ -38,4 +38,4 @@ Power BI `.pbix` files are binary, so Git cannot show meaningful line-by-line di
 
 ## Data and access
 
-Power BI files can contain imported data, connection details, and business logic. Keep this repository private unless the dashboards have been reviewed and approved for public distribution.
+This repository is public. Before replacing or updating a `.pbix` file, verify that its imported data, connection details, and business logic are approved for public distribution. Never commit credentials or other secrets.
